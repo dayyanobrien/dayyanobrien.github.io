@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I'm Dayyán O'Brien. I'm a final year Master's student studying Informatics at the University of Edinburgh'
+Hi there, I'm Dayyán 👋 I'm a final year Master's student studying Informatics at the University of Edinburgh.
