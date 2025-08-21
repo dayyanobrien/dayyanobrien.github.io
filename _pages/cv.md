@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF version](/files/cv.pdf)
+
 Education
 ======
 * **PhD in Designing Responsible NLP**, University of Edinburgh, 2025-2029
@@ -104,20 +106,10 @@ Skills
 * **Libraries**: PyTorch, Tensorflow, HuggingFace, NLTK, NumPy, Slurm, Kubernetes, Docker, MTurk, pandas, sklearn, statsmodels, Matplotlib, Festival, HTK, Tkinter, Google Cloud VM, Weather & Maps API, Seaborn, Kivy, JUnit, Maven
 * **Languages**: English (Native), German (Professional)
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Un-Overfittable: A Dynamic Benchmark on Counterfactual Mathematics** - Dayyán O'Brien, Pinzhen Chen, Barry Haddow (Under review for ACL Rolling Review, 2025)
+* **[DocHPLT: A Massively Multilingual Document-Level Translation Dataset](https://arxiv.org/pdf/2508.13079)** - Dayyán O'Brien, Bhavitvya Malik, Ona De Gibert Bonet, Pinzhen Chen, Barry Haddow, Jörg Tiedemann (Under review for WMT, 2025)
+* **[An Expanded Massive Multilingual Dataset for High-Performance Language Technologies](https://aclanthology.org/2025.acl-long.854.pdf)** - Laurie Burchell, Ona de Gibert, et al. (incl. Dayyán O'Brien) (ACL 2025)
+* **[EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models](https://arxiv.org/pdf/2409.17892)** - Shaoxiong Ji, Zihao Li, et al. (incl. Dayyán O'Brien) (Under review for DMLR, 2024)
+* **[Prompting Numerical Commonsense Reasoning across Languages](https://project-archive.inf.ed.ac.uk/ug4/20244637/ug4_proj.pdf)** - Dayyán O'Brien (Outstanding Honours Thesis, 2024)
