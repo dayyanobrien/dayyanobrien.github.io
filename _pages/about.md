@@ -14,6 +14,4 @@ Previously, I completed a Master of Informatics (First Class Honours) at the Uni
 
 After graduating, I continued my research journey with the StatMT group at Edinburgh. I worked as a Junior Research Assistant with Pinzhen Chen on EMMA-500, a 7B parameter LLM supporting over 500 languages, and later as a Research Assistant with Barry Haddow, co-developing the HPLT 2.0 bitexting pipeline for mining parallel data.
 
-My research interests span multilingual NLP, numerical reasoning, and developing more robust language models. I've contributed to several high-impact publications and open-source projects, including leading the development of the DocHPLT corpus and contributing to EMMA-500.
-
-You can find more details about my work in my [publications](/publications/) or view my full [CV](/files/cv.pdf).
+My research interests span conversational & compositional NLP, numerical reasoning, and developing more robust language models. I've contributed to several high-impact publications and open-source projects, including leading the development of the DocHPLT corpus and contributing to EMMA-500.
